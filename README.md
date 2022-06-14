@@ -1,5 +1,5 @@
 # TrueSingleFloat
-A simple demo that compresses a IEEE 754 single precision floating point number down to the size of a byte
+A simple library that compresses a IEEE 754 single precision floating point number down to the size of a byte
 
 ## Precision Showcases
 Each of the images have a step of 0.01.<br>
