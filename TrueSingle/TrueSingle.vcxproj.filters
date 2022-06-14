@@ -7,7 +7,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Source\TrueSingle.hpp">
+    <ClCompile Include="Source\TrueSingle.h">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
